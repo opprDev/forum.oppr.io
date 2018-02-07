@@ -1,0 +1,14 @@
+<div class="clearfix oauth-content">
+<div class="signin-text">
+	<span>{L_OR}</span>
+</div> 
+  <ul class="list-inline text-center"> 
+	<!-- BEGIN oauth -->
+	 <li><a href="{oauth.REDIRECT_URL}" class="btn btn-default">{oauth.SERVICE_NAME}</a></li>
+	<!-- END oauth -->
+  </ul>
+<!-- some quick trickery and love for these default sad buttons -->	
+<script>
+head.ready(function(){!function(n){n(".oauth-content ul > li").each(function(){var i=n(this).find("a").text();n(this).find("a").prepend('<i class="'+i+'"></i>')})}(jQuery)});
+</script>	
+</div>

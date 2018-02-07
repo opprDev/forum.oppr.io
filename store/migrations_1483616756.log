@@ -1,0 +1,5 @@
+[DEBUG] Migration already effectively installed (skipped): \phpbbmodders\adduser\migrations\v103\version_103
+[DEBUG] Migration already effectively installed (skipped): \phpbbmodders\adduser\migrations\v102\version_102
+[DEBUG] Migration already effectively installed (skipped): \phpbbmodders\adduser\migrations\v100\install_v100
+[DEBUG] Migration already effectively installed (skipped): \phpbbmodders\adduser\migrations\v101\version_101
+[DEBUG] Migration already effectively installed (skipped): \sitesplat\BBCore\migrations\v31x\m1_initial_file
