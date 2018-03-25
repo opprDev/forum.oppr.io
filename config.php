@@ -4,9 +4,9 @@
 $dbms = 'phpbb\\db\\driver\\mysqli';
 $dbhost = 'localhost';
 $dbport = '';
-$dbname = 'phpbb';
-$dbuser = 'phpbb';
-$dbpasswd = 'xxxxxxxxxxxxxxx';
+$dbname = '';
+$dbuser = '';
+$dbpasswd = '';
 $table_prefix = 'phpbb_';
 $phpbb_adm_relative_path = 'adm/';
 $acm_type = 'phpbb\\cache\\driver\\file';
