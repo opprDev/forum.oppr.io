@@ -2,7 +2,7 @@
 
 <img src="https://github.com/opprDev/meta/blob/master/banners/opprdev_banner_4_1_1356x500.png?raw=true">
 
-The hereby repository is the source code for our [forum.oppr.io](http://forum.oppr.io/) forum. A fully robust and powerful [phpBB](https://www.phpbb.com/) forum source. Integrates with an external systems, support for topic and forum subscriptions.
+The hereby repository is the source code for our [forum.oppr.io](http://forum.oppr.io/) forum. A fully robust and powerful [phpBB](https://www.phpbb.com/) forum source. Integrates with an external systems, support for topic and forum subscriptions. The [phpBB](https://www.phpbb.com/about/) framework is one of the most widely used forum tools currently on the web. It is [Open Source](https://github.com/phpbb/phpbb), easy to install and administer, allowing flexibility in terms of design and organization.
 
 To support us, just follow our patreon and help us to grow up. Please support our work. We you would like to donate in other ways, please do not hesitate to [contact](https://dev.oppr.io/#contact) us.
 
